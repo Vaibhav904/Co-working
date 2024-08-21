@@ -1,0 +1,150 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.home-16px a{
+    font-size: 16px;
+    font-weight: 400;
+    color: #1A1A1A;
+    text-decoration: none;
+}
+.active-rise{
+    font-size: 16px;
+    font-weight: 700;
+    color: #1A1A1A;
+}
+.Co-Working h2{
+    font-size: 56px;
+    font-weight: 700;
+    color: #1A1A1A;
+}
+.Co-Working p{
+    color: 
+    #616161;
+    font-size: 24px;
+    font-weight: 400;
+}
+.metting-off img{
+    width: 100%;
+}
+.coworking-content h6{
+    color: 
+    #3D5678;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+.coworking-content p{
+    color: 
+    #3D5678;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+.Utilized-content h2{
+   font-size: 36px;
+   font-weight: 700;
+   color: #1A1A1A;
+   line-height: 80px;
+}
+.Utilized-content p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #1A1A1A;
+    line-height: 32px;
+}
+.co-img img{
+    width: 100%;
+    padding-top: 80px;
+}
+.share-icon h2{
+    font-size: 24px;
+    font-weight: 700;
+    color: #1A1A1A;
+}
+.social-media{
+    display:flex ;
+  
+}
+.social-media i{
+    font-size: 24px;
+}
+.more-blog h2{
+    font-size: 48px;
+    font-weight: 700;
+    color: #1A1A1A;
+    padding-bottom: 10px;
+}
+ 
+.more-blog p{
+    font-size: 14px;
+    font-weight: 500;
+    color: #1A1A1A;
+    line-height: 10px;
+}
+.more-blog h2 span{
+    color: #616161;
+}
+.line-more{
+    height: 2px;
+    width: 12%;
+    background-color: #F37F20;
+}
+.line-blogs{
+    display: flex;
+    justify-content: center;
+}
+/* owl-slider */
+ 
+ 
+.chennai-spa img{
+    width: 100%;
+}
+.virtu-off p{
+    font-size: 14px;
+    font-weight: 400;
+    color: 
+    #616161;
+}
+.virtu-off h2{
+    color: 
+    #1A1A1A;
+    font-size: 16px;
+    font-weight: 600;
+}
+@media screen and (max-width: 517px) {
+    .Utilized-content h2 {
+        font-size: 25px;
+        font-weight: 700;
+        color: #1A1A1A;
+        line-height: 45px;
+    }
+    .more-blog h2 {
+        font-size: 30px;
+        font-weight: 700;
+        color: #1A1A1A;
+        padding-bottom: 10px;
+    }
+    .Co-Working h2 {
+        font-size: 22px;
+        font-weight: 700;
+        color: #1A1A1A;
+    }
+    .Co-Working p {
+        color: #616161;
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .active-rise {
+        font-size: 13px;
+        font-weight: 700;
+        color: #1A1A1A;
+        padding-top: 4px;
+    }
+    .home-16px a {
+        font-size: 12px;
+        font-weight: 400;
+        color: #1A1A1A;
+        text-decoration: none;
+    }
+}
